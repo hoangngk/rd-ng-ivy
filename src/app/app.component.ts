@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'rd-ng-ivy';
+  public name = 'rd-ng-ivy';
 }
